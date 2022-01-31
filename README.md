@@ -1,1 +1,1 @@
-# lets-encrypt-ssl
+# sudo certbot certonly --webroot 
