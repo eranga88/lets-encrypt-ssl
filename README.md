@@ -1,1 +1,1 @@
-# sudo certbot certonly --webroot 
+# certbot certonly --webroot 
