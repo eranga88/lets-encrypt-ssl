@@ -4,4 +4,4 @@
 
 # certbot certonly --webroot 
 
-# certbot certonly --webroot -w /letsencrypt --dry-run --domains sitesentry.bsdl.xyz
+# certbot certonly --webroot -w /etc/letsencrypt --dry-run --domains sitesentry.bsdl.xyz
