@@ -9,5 +9,6 @@
 # Add cron job to host machine
 ## sudo su -
 ## vim /etc/crontab
-## 0 0 * * * /root/docker.sh
+## chmod +x /root/docker.sh
+## 0 0 * * * /usr/bin/bash /root/docker.sh
 
