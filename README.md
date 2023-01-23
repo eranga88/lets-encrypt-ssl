@@ -10,5 +10,7 @@
 ## sudo su -
 ## vim /etc/crontab
 ## chmod +x /root/docker.sh
+
+## // cronjob will runs at 12 am everyday
 ## 0 0 * * * /usr/bin/bash /root/docker.sh
 
